@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "BankingApp",
+    "slug": "banking-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.bankingapp.mobile",
+      "versionCode": 1
+    }
+  }
+}
